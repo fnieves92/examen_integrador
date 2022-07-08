@@ -1,3 +1,4 @@
 # examen_integrador
-Renzo Borraccini
-Felipe Nieves
+Renzo Borraccini 
+Felipe Andres Nieves Ariza
+Sebastian Dario Mamani
